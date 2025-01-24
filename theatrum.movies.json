@@ -1,0 +1,1338 @@
+[{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be6a"
+  },
+  "title": "EndGame",
+  "genre": "Action",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_EndGame_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_EndGame_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be6b"
+  },
+  "title": "Extraction2",
+  "genre": "Action",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_Extraction2_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_Extraction2_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be6c"
+  },
+  "title": "Extraction1",
+  "genre": "Action",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_Extraction1_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_Extraction1_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be6d"
+  },
+  "title": "JohnWickChapter1",
+  "genre": "Action",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_JohnWickChapter1_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_JohnWickChapter1_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be6e"
+  },
+  "title": "JohnWickChapter2",
+  "genre": "Action",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_JohnWickChapter2_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_JohnWickChapter2_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be6f"
+  },
+  "title": "JohnWickChapter3",
+  "genre": "Action",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_JohnWickChapter3_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_JohnWickChapter3_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be70"
+  },
+  "title": "JohnWickChapter4",
+  "genre": "Action",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_JohnWickChapter4_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_JohnWickChapter4_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be71"
+  },
+  "title": "MissionImpossibleDeadReckoning",
+  "genre": "Action",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_MissionImpossibleDeadReckoning_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_MissionImpossibleDeadReckoning_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be72"
+  },
+  "title": "MissionImpossibleFallOut",
+  "genre": "Action",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_MissionImpossibleFallOut_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_MissionImpossibleFallOut_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be73"
+  },
+  "title": "SpiderManHomeComing",
+  "genre": "Action",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_SpiderManHomeComing_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_SpiderManHomeComing_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be74"
+  },
+  "title": "TheBatman",
+  "genre": "Action",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_TheBatman_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_TheBatman_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be75"
+  },
+  "title": "TheDarkKnight",
+  "genre": "Action",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_TheDarkKnight_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_TheDarkKnight_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be76"
+  },
+  "title": "Dhoom1",
+  "genre": "Action",
+  "language": "Hindi",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_Dhoom1_Hindi.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_Dhoom1_Hindi.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be77"
+  },
+  "title": "Dhoom2",
+  "genre": "Action",
+  "language": "Hindi",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_Dhoom2_Hindi.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_Dhoom2_Hindi.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be78"
+  },
+  "title": "Dhoom3",
+  "genre": "Action",
+  "language": "Hindi",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_Dhoom3_Hindi.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_Dhoom3_Hindi.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be79"
+  },
+  "title": "Krish1",
+  "genre": "Action",
+  "language": "Hindi",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_Krish1_Hindi.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_Krish1_Hindi.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be7a"
+  },
+  "title": "Krish2",
+  "genre": "Action",
+  "language": "Hindi",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_Krish2_Hindi.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_Krish2_Hindi.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be7b"
+  },
+  "title": "Krish3",
+  "genre": "Action",
+  "language": "Hindi",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_Krish3_Hindi.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_Krish3_Hindi.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be7c"
+  },
+  "title": "Captain",
+  "genre": "Action",
+  "language": "Malayalam",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_Captain_Malayalam.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_Captain_Malayalam.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be7d"
+  },
+  "title": "24",
+  "genre": "Action",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_24_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_24_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be7e"
+  },
+  "title": "Khaithi",
+  "genre": "Action",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_Khaithi_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_Khaithi_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be7f"
+  },
+  "title": "Leo",
+  "genre": "Action",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_Leo_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_Leo_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be80"
+  },
+  "title": "Vikram",
+  "genre": "Action",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_Vikram_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_Vikram_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be81"
+  },
+  "title": "1Nenokkadine",
+  "genre": "Action",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_1Nenokkadine_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_1Nenokkadine_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be82"
+  },
+  "title": "Goodachari",
+  "genre": "Action",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_Goodachari_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_Goodachari_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be83"
+  },
+  "title": "Saaho",
+  "genre": "Action",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_Saaho_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_Saaho_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be84"
+  },
+  "title": "Salaar",
+  "genre": "Action",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_Salaar_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_Salaar_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be85"
+  },
+  "title": "WildDog",
+  "genre": "Action",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Action_WildDog_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Action_WildDog_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be86"
+  },
+  "title": "BadTeacher",
+  "genre": "Comedy",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_BadTeacher_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_BadTeacher_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be87"
+  },
+  "title": "GoodBoys",
+  "genre": "Comedy",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_GoodBoys_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_GoodBoys_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be88"
+  },
+  "title": "MrBeanHoliday",
+  "genre": "Comedy",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_MrBeanHoliday_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_MrBeanHoliday_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be89"
+  },
+  "title": "BhoolBhulaiyaa",
+  "genre": "Comedy",
+  "language": "Hindi",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_BhoolBhulaiyaa_Hindi.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_BhoolBhulaiyaa_Hindi.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be8a"
+  },
+  "title": "ChennaiExpress",
+  "genre": "Comedy",
+  "language": "Hindi",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_ChennaiExpress_Hindi.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_ChennaiExpress_Hindi.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be8b"
+  },
+  "title": "Mimi",
+  "genre": "Comedy",
+  "language": "Hindi",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_Mimi_Hindi.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_Mimi_Hindi.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be8c"
+  },
+  "title": "Welcome",
+  "genre": "Comedy",
+  "language": "Hindi",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_Welcome_Hindi.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_Welcome_Hindi.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be8d"
+  },
+  "title": "Aavesham",
+  "genre": "Comedy",
+  "language": "Malayalam",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_Aavesham_Malayalam.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_Aavesham_Malayalam.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be8e"
+  },
+  "title": "BangaloreDays",
+  "genre": "Comedy",
+  "language": "Malayalam",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_BangaloreDays_Malayalam.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_BangaloreDays_Malayalam.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be8f"
+  },
+  "title": "ManjummelBoys",
+  "genre": "Comedy",
+  "language": "Malayalam",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_ManjummelBoys_Malayalam.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_ManjummelBoys_Malayalam.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be90"
+  },
+  "title": "Premalu",
+  "genre": "Comedy",
+  "language": "Malayalam",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_Premalu_Malayalam.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_Premalu_Malayalam.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be91"
+  },
+  "title": "HeySinamika",
+  "genre": "Comedy",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_HeySinamika_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_HeySinamika_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be92"
+  },
+  "title": "Japan",
+  "genre": "Comedy",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_Japan_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_Japan_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be93"
+  },
+  "title": "LoveToday",
+  "genre": "Comedy",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_LoveToday_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_LoveToday_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be94"
+  },
+  "title": "MarkAntony",
+  "genre": "Comedy",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_MarkAntony_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_MarkAntony_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be95"
+  },
+  "title": "OhMyKadavule",
+  "genre": "Comedy",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_OhMyKadavule_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_OhMyKadavule_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be96"
+  },
+  "title": "Adhurs",
+  "genre": "Comedy",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_Adhurs_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_Adhurs_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be97"
+  },
+  "title": "AgentSaiSrinivasaAthreya",
+  "genre": "Comedy",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_AgentSaiSrinivasaAthreya_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_AgentSaiSrinivasaAthreya_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be98"
+  },
+  "title": "Athadu",
+  "genre": "Comedy",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_Athadu_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_Athadu_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be99"
+  },
+  "title": "Dookudu",
+  "genre": "Comedy",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_Dookudu_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_Dookudu_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be9a"
+  },
+  "title": "GopalaGopala",
+  "genre": "Comedy",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_GopalaGopala_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_GopalaGopala_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be9b"
+  },
+  "title": "Jalsa",
+  "genre": "Comedy",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_Jalsa_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_Jalsa_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be9c"
+  },
+  "title": "Julayi",
+  "genre": "Comedy",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_Julayi_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_Julayi_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be9d"
+  },
+  "title": "Khaleja",
+  "genre": "Comedy",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_Khaleja_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_Khaleja_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be9e"
+  },
+  "title": "Malleswari",
+  "genre": "Comedy",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_Malleswari_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_Malleswari_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23be9f"
+  },
+  "title": "Manmadhudu",
+  "genre": "Comedy",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_Manmadhudu_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_Manmadhudu_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bea0"
+  },
+  "title": "MathuVadalara2",
+  "genre": "Comedy",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_MathuVadalara2_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_MathuVadalara2_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bea1"
+  },
+  "title": "MathuVadalara",
+  "genre": "Comedy",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Comedy_MathuVadalara_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Comedy_MathuVadalara_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bea2"
+  },
+  "title": "Oppenheimer",
+  "genre": "Drama",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_Oppenheimer_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_Oppenheimer_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bea3"
+  },
+  "title": "Parasite",
+  "genre": "Drama",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_Parasite_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_Parasite_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bea4"
+  },
+  "title": "RebelRidge",
+  "genre": "Drama",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_RebelRidge_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_RebelRidge_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bea5"
+  },
+  "title": "SpeakNoEvil",
+  "genre": "Drama",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_SpeakNoEvil_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_SpeakNoEvil_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bea6"
+  },
+  "title": "TheFallGuy",
+  "genre": "Drama",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_TheFallGuy_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_TheFallGuy_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bea7"
+  },
+  "title": "22FemaleKottayam",
+  "genre": "Drama",
+  "language": "Malayalam",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_22FemaleKottayam_Malayalam.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_22FemaleKottayam_Malayalam.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bea8"
+  },
+  "title": "BangaloreDays",
+  "genre": "Drama",
+  "language": "Malayalam",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_BangaloreDays_Malayalam.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_BangaloreDays_Malayalam.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bea9"
+  },
+  "title": "Charlie",
+  "genre": "Drama",
+  "language": "Malayalam",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_Charlie_Malayalam.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_Charlie_Malayalam.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23beaa"
+  },
+  "title": "Chola",
+  "genre": "Drama",
+  "language": "Malayalam",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_Chola_Malayalam.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_Chola_Malayalam.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23beab"
+  },
+  "title": "Drishyam",
+  "genre": "Drama",
+  "language": "Malayalam",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_Drishyam_Malayalam.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_Drishyam_Malayalam.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23beac"
+  },
+  "title": "KumbalangiNights",
+  "genre": "Drama",
+  "language": "Malayalam",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_KumbalangiNights_Malayalam.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_KumbalangiNights_Malayalam.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bead"
+  },
+  "title": "MaheshintePrathikaaram",
+  "genre": "Drama",
+  "language": "Malayalam",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_MaheshintePrathikaaram_Malayalam.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_MaheshintePrathikaaram_Malayalam.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23beae"
+  },
+  "title": "ThondimuthalumDriksakshiyum",
+  "genre": "Drama",
+  "language": "Malayalam",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_ThondimuthalumDriksakshiyum_Malayalam.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_ThondimuthalumDriksakshiyum_Malayalam.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23beaf"
+  },
+  "title": "UstadHotel",
+  "genre": "Drama",
+  "language": "Malayalam",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_UstadHotel_Malayalam.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_UstadHotel_Malayalam.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23beb0"
+  },
+  "title": "96",
+  "genre": "Drama",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_96_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_96_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23beb1"
+  },
+  "title": "AayirathilOruvan",
+  "genre": "Drama",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_AayirathilOruvan_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_AayirathilOruvan_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23beb2"
+  },
+  "title": "KaakkaMuttai",
+  "genre": "Drama",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_KaakkaMuttai_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_KaakkaMuttai_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23beb3"
+  },
+  "title": "NaanKadavul",
+  "genre": "Drama",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_NaanKadavul_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_NaanKadavul_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23beb4"
+  },
+  "title": "PariyerumPerumal",
+  "genre": "Drama",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_PariyerumPerumal_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_PariyerumPerumal_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23beb5"
+  },
+  "title": "SooraraiPottru",
+  "genre": "Drama",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_SooraraiPottru_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_SooraraiPottru_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23beb6"
+  },
+  "title": "Subramaniyapuram",
+  "genre": "Drama",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_Subramaniyapuram_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_Subramaniyapuram_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23beb7"
+  },
+  "title": "Theri",
+  "genre": "Drama",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_Theri_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_Theri_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23beb8"
+  },
+  "title": "VadaChennai",
+  "genre": "Drama",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_VadaChennai_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_VadaChennai_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23beb9"
+  },
+  "title": "ArjunReddy",
+  "genre": "Drama",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_ArjunReddy_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_ArjunReddy_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23beba"
+  },
+  "title": "CoKancharapalem",
+  "genre": "Drama",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_CoKancharapalem_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_CoKancharapalem_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bebb"
+  },
+  "title": "Eega",
+  "genre": "Drama",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_Eega_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_Eega_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bebc"
+  },
+  "title": "Fidaa",
+  "genre": "Drama",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_Fidaa_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_Fidaa_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bebd"
+  },
+  "title": "KshanaKshanam",
+  "genre": "Drama",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_KshanaKshanam_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_KshanaKshanam_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bebe"
+  },
+  "title": "Mahanati",
+  "genre": "Drama",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_Mahanati_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_Mahanati_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bebf"
+  },
+  "title": "Oopiri",
+  "genre": "Drama",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_Oopiri_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_Oopiri_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bec0"
+  },
+  "title": "PelliSandadi",
+  "genre": "Drama",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_PelliSandadi_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_PelliSandadi_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bec1"
+  },
+  "title": "Sye",
+  "genre": "Drama",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Drama_Sye_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Drama_Sye_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bec2"
+  },
+  "title": "BirdBox",
+  "genre": "ScienceFiction",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/ScienceFiction_BirdBox_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/ScienceFiction_BirdBox_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bec3"
+  },
+  "title": "Dune1",
+  "genre": "ScienceFiction",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/ScienceFiction_Dune1_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/ScienceFiction_Dune1_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bec4"
+  },
+  "title": "Dune2",
+  "genre": "ScienceFiction",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/ScienceFiction_Dune2_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/ScienceFiction_Dune2_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bec5"
+  },
+  "title": "Inception",
+  "genre": "ScienceFiction",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/ScienceFiction_Inception_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/ScienceFiction_Inception_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bec6"
+  },
+  "title": "Interstellar",
+  "genre": "ScienceFiction",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/ScienceFiction_Interstellar_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/ScienceFiction_Interstellar_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bec7"
+  },
+  "title": "Martian",
+  "genre": "ScienceFiction",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/ScienceFiction_Martian_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/ScienceFiction_Martian_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bec8"
+  },
+  "title": "Matrix",
+  "genre": "ScienceFiction",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/ScienceFiction_Matrix_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/ScienceFiction_Matrix_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bec9"
+  },
+  "title": "ReadyPlayerOne",
+  "genre": "ScienceFiction",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/ScienceFiction_ReadyPlayerOne_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/ScienceFiction_ReadyPlayerOne_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23beca"
+  },
+  "title": "TheTitan",
+  "genre": "ScienceFiction",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/ScienceFiction_TheTitan_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/ScienceFiction_TheTitan_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23becb"
+  },
+  "title": "DoBaaraa",
+  "genre": "ScienceFiction",
+  "language": "Hindi",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/ScienceFiction_DoBaaraa_Hindi.jpg",
+  "video": "http://localhost:5000/uploads/videos/ScienceFiction_DoBaaraa_Hindi.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23becc"
+  },
+  "title": "9",
+  "genre": "ScienceFiction",
+  "language": "Malayalam",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/ScienceFiction_9_Malayalam.jpg",
+  "video": "http://localhost:5000/uploads/videos/ScienceFiction_9_Malayalam.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23becd"
+  },
+  "title": "Gaganachari",
+  "genre": "ScienceFiction",
+  "language": "Malayalam",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/ScienceFiction_Gaganachari_Malayalam.jpg",
+  "video": "http://localhost:5000/uploads/videos/ScienceFiction_Gaganachari_Malayalam.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bece"
+  },
+  "title": "Endhiran2",
+  "genre": "ScienceFiction",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/ScienceFiction_Endhiran2_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/ScienceFiction_Endhiran2_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23becf"
+  },
+  "title": "TikTikTik",
+  "genre": "ScienceFiction",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/ScienceFiction_TikTikTik_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/ScienceFiction_TikTikTik_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bed0"
+  },
+  "title": "Adbhutham",
+  "genre": "ScienceFiction",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/ScienceFiction_Adbhutham_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/ScienceFiction_Adbhutham_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bed1"
+  },
+  "title": "Aditya369",
+  "genre": "ScienceFiction",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/ScienceFiction_Aditya369_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/ScienceFiction_Aditya369_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bed2"
+  },
+  "title": "OkkaKshanam",
+  "genre": "ScienceFiction",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/ScienceFiction_OkkaKshanam_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/ScienceFiction_OkkaKshanam_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bed3"
+  },
+  "title": "ADifferentMan",
+  "genre": "Thriller",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_ADifferentMan_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_ADifferentMan_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bed4"
+  },
+  "title": "AmericanPsycho",
+  "genre": "Thriller",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_AmericanPsycho_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_AmericanPsycho_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bed5"
+  },
+  "title": "AQuitePlace",
+  "genre": "Thriller",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_AQuitePlace_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_AQuitePlace_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bed6"
+  },
+  "title": "GetOut",
+  "genre": "Thriller",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_GetOut_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_GetOut_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bed7"
+  },
+  "title": "GoneGirl",
+  "genre": "Thriller",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_GoneGirl_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_GoneGirl_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bed8"
+  },
+  "title": "KnivesOut",
+  "genre": "Thriller",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_KnivesOut_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_KnivesOut_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bed9"
+  },
+  "title": "StrangeDarling",
+  "genre": "Thriller",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_StrangeDarling_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_StrangeDarling_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23beda"
+  },
+  "title": "Tenet",
+  "genre": "Thriller",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_Tenet_English.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_Tenet_English.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bedb"
+  },
+  "title": "Bhakshak",
+  "genre": "Thriller",
+  "language": "Hindi",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_Bhakshak_Hindi.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_Bhakshak_Hindi.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bedc"
+  },
+  "title": "Chup",
+  "genre": "Thriller",
+  "language": "Hindi",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_Chup_Hindi.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_Chup_Hindi.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bedd"
+  },
+  "title": "Neeyat",
+  "genre": "Thriller",
+  "language": "Hindi",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_Neeyat_Hindi.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_Neeyat_Hindi.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bede"
+  },
+  "title": "Drishyam1",
+  "genre": "Thriller",
+  "language": "Malayalam",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_Drishyam1_Malayalam.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_Drishyam1_Malayalam.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bedf"
+  },
+  "title": "Drishyam2",
+  "genre": "Thriller",
+  "language": "Malayalam",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_Drishyam2_Malayalam.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_Drishyam2_Malayalam.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bee0"
+  },
+  "title": "Iratta",
+  "genre": "Thriller",
+  "language": "Malayalam",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_Iratta_Malayalam.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_Iratta_Malayalam.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bee1"
+  },
+  "title": "JanaGanaMana",
+  "genre": "Thriller",
+  "language": "Malayalam",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_JanaGanaMana_Malayalam.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_JanaGanaMana_Malayalam.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bee2"
+  },
+  "title": "Joji",
+  "genre": "Thriller",
+  "language": "Malayalam",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_Joji_Malayalam.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_Joji_Malayalam.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bee3"
+  },
+  "title": "Nayattu",
+  "genre": "Thriller",
+  "language": "Malayalam",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_Nayattu_Malayalam.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_Nayattu_Malayalam.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bee4"
+  },
+  "title": "CaptainMiller",
+  "genre": "Thriller",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_CaptainMiller_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_CaptainMiller_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bee5"
+  },
+  "title": "Maharaja",
+  "genre": "Thriller",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_Maharaja_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_Maharaja_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bee6"
+  },
+  "title": "MeeryChristmas",
+  "genre": "Thriller",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_MeeryChristmas_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_MeeryChristmas_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bee7"
+  },
+  "title": "Thangaalan",
+  "genre": "Thriller",
+  "language": "Tamil",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_Thangaalan_Tamil.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_Thangaalan_Tamil.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bee8"
+  },
+  "title": "Evaru",
+  "genre": "Thriller",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_Evaru_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_Evaru_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23bee9"
+  },
+  "title": "Hit1",
+  "genre": "Thriller",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_Hit1_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_Hit1_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23beea"
+  },
+  "title": "Hit2",
+  "genre": "Thriller",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_Hit2_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_Hit2_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23beeb"
+  },
+  "title": "Karthikeya1",
+  "genre": "Thriller",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_Karthikeya1_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_Karthikeya1_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23beec"
+  },
+  "title": "Karthikeya2",
+  "genre": "Thriller",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_Karthikeya2_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_Karthikeya2_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673b8398d7357eae3d23beed"
+  },
+  "title": "Kshanam",
+  "genre": "Thriller",
+  "language": "Telugu",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/Thriller_Kshanam_Telugu.jpg",
+  "video": "http://localhost:5000/uploads/videos/Thriller_Kshanam_Telugu.mp4"
+},
+{
+  "_id": {
+    "$oid": "673c21a0e5a28e85d0c932f7"
+  },
+  "title": "Inception",
+  "genre": "ScienceFiction",
+  "language": "English",
+  "thumbnail": "http://localhost:5000/uploads/thumbnails/ScienceFiction_Inception_English.jpg",
+  "videoUrl": "http://localhost:5000/uploads/videos/ScienceFiction_Inception_English.mp4",
+  "description": "A mind-bending thriller.",
+  "createdAt": {
+    "$date": "2024-11-19T05:26:56.180Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-19T05:26:56.180Z"
+  },
+  "__v": 0
+}]
